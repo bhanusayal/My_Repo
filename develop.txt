@@ -1,3 +1,7 @@
-hello master
+<<<<<<< HEAD
+hello 
+=======
+hello 
+>>>>>>> integrate
 this is develop branch
 
